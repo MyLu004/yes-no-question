@@ -64,11 +64,13 @@ button{
 }
 
 button:nth-child(1){
+    font-size: 30px;
     margin-left: -200px;
     background-color: #ef7a85;
 }
 
 button:nth-child(2){
+    font-size: 30px;
     margin-right: -200px;
     background-color: #ffc2e2;
 }
