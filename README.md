@@ -1,6 +1,6 @@
 ## YES NO BOX
 
-# **Link here: ** https://mylu004.github.io/yes-no-question/ 
+#** Link Here:** https://mylu004.github.io/yes-no-question/ 
 ----------------------------------
 How to use: 
 - Go to the website
