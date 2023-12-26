@@ -11,6 +11,7 @@ const noBtnReact = noBtn.getBoundingClientRect();
 yesBtn.addEventListener('click', () =>{
     
     question.innerHTML = "Yayyyy, HOP ON NOW!! >:3";
+    
     astroneerImage.src = "giphy.gif"; 
     backgroundMusic.play();
 
