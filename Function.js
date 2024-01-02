@@ -10,7 +10,7 @@ const noBtnReact = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () =>{
     
-    question.innerHTML = "Yayyyy, HOP ON NOW!! >:3";
+    question.innerHTML = "Yayyyy, see u at 10pm [ur time]!! >:3";
     
     astroneerImage.src = "giphy.gif"; 
     backgroundMusic.play();
